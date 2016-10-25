@@ -1,2 +1,2 @@
-# CloundLife
- CloundLife is share everything!
+# CloudLife
+ CloudLife is share everything!
